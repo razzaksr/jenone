@@ -6,6 +6,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello Worldin Zealous!" );
+        System.out.println( "Welcome to zealous tech corp" );
     }
 }
